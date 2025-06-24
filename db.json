@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the Blog",
+      "author": "Jane Doe",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+      "content": "This is the first post on our simple blog manager. Feel free to add your own posts!"
+    },
+    {
+      "id": 2,
+      "title": "Second Post Example",
+      "author": "John Smith",
+      "image": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308",
+      "content": "Here's another example post. You can edit or delete posts as you like."
+    },
+    {
+      "id": 3,
+      "title": "Tips for Blogging",
+      "author": "Alex Lee",
+      "image": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca",
+      "content": "Blogging is a great way to share your thoughts. Remember to keep your posts engaging and informative!"
+    }
+  ]
+}
